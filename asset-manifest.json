@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/hangman-react/static/css/main.9a3d6f29.chunk.css",
+    "main.js": "/hangman-react/static/js/main.41133a88.chunk.js",
+    "main.js.map": "/hangman-react/static/js/main.41133a88.chunk.js.map",
+    "runtime-main.js": "/hangman-react/static/js/runtime-main.61eb8a72.js",
+    "runtime-main.js.map": "/hangman-react/static/js/runtime-main.61eb8a72.js.map",
+    "static/js/2.f985da6b.chunk.js": "/hangman-react/static/js/2.f985da6b.chunk.js",
+    "static/js/2.f985da6b.chunk.js.map": "/hangman-react/static/js/2.f985da6b.chunk.js.map",
+    "index.html": "/hangman-react/index.html",
+    "precache-manifest.82533f6a3a5177acbe185621b1ebf093.js": "/hangman-react/precache-manifest.82533f6a3a5177acbe185621b1ebf093.js",
+    "service-worker.js": "/hangman-react/service-worker.js",
+    "static/css/main.9a3d6f29.chunk.css.map": "/hangman-react/static/css/main.9a3d6f29.chunk.css.map",
+    "static/media/button.png": "/hangman-react/static/media/button.c76d82d3.png",
+    "static/media/gameLost.png": "/hangman-react/static/media/gameLost.517d7593.png",
+    "static/media/gameWon.png": "/hangman-react/static/media/gameWon.8cadb83d.png",
+    "static/media/hang1.png": "/hangman-react/static/media/hang1.acdc426e.png",
+    "static/media/hang2.png": "/hangman-react/static/media/hang2.a6f9844b.png",
+    "static/media/hang3.png": "/hangman-react/static/media/hang3.7c52cdf6.png",
+    "static/media/hang4.png": "/hangman-react/static/media/hang4.b8738597.png",
+    "static/media/hang5.png": "/hangman-react/static/media/hang5.b0ec4180.png",
+    "static/media/hang6.png": "/hangman-react/static/media/hang6.81ac58f2.png",
+    "static/media/hang7.png": "/hangman-react/static/media/hang7.68cd8328.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61eb8a72.js",
+    "static/js/2.f985da6b.chunk.js",
+    "static/css/main.9a3d6f29.chunk.css",
+    "static/js/main.41133a88.chunk.js"
+  ]
+}
